@@ -1,5 +1,5 @@
-## Suggestions to improve google cloud platform 
-- GoogleCloudFeatures.md
+## GoogleCloudFeatures.md
+- Suggestions to improve google cloud platform
 
-## Comparison document to support the claim
-- Comparison.md
+## Comparison.md
+- Comparison document to support the claim
