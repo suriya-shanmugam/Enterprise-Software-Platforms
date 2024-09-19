@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-- Flagrant
+- Vagrant
 - VirtualBox
 
 
